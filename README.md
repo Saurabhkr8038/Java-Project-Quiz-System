@@ -109,14 +109,8 @@ String password = "your_password";
 | ✅ Component Placement and Alignment                | ✅        |
 | ✅ UI Responsiveness and Accessibility              | ✅        |
 
----
-
-## 📸 Screenshots
-
-*You can insert screenshots of the login page, quiz screen, and result screen here for visual clarity.*
-
----
-
+ 
+ 
 ## 📜 License
 
 This project is created for academic and learning purposes only. No commercial use intended.
@@ -127,4 +121,3 @@ This project is created for academic and learning purposes only. No commercial u
 
 **Saurabh Kumar**  
 Student Developer | Java Enthusiast  
-🔗 [GitHub Profile](https://github.com/Saurabhkr8038)
